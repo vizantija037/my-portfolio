@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.e6bab21c.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.a75ac89a.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.a75ac89a.chunk.js.map",
+    "main.js": "/my-portfolio/static/js/main.8f7159eb.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.8f7159eb.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.32c92d3f.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.32c92d3f.js.map",
     "static/css/2.7c15f4b8.chunk.css": "/my-portfolio/static/css/2.7c15f4b8.chunk.css",
@@ -20,6 +20,7 @@
     "static/media/expenses.b629bd59.png": "/my-portfolio/static/media/expenses.b629bd59.png",
     "static/media/home.module.css": "/my-portfolio/static/media/home1.dddb3201.jpg",
     "static/media/html.efc67225.png": "/my-portfolio/static/media/html.efc67225.png",
+    "static/media/never-give-up.1102e8bc.png": "/my-portfolio/static/media/never-give-up.1102e8bc.png",
     "static/media/ps.ddbacbd2.png": "/my-portfolio/static/media/ps.ddbacbd2.png",
     "static/media/react1.568b224a.png": "/my-portfolio/static/media/react1.568b224a.png",
     "static/media/shutters.54e774d7.png": "/my-portfolio/static/media/shutters.54e774d7.png",
@@ -32,6 +33,6 @@
     "static/css/2.7c15f4b8.chunk.css",
     "static/js/2.54c1961b.chunk.js",
     "static/css/main.e6bab21c.chunk.css",
-    "static/js/main.a75ac89a.chunk.js"
+    "static/js/main.8f7159eb.chunk.js"
   ]
 }
